@@ -7,14 +7,14 @@ if __name__ == "__main__":
         print("Usage: ./100-my_calculator.py <a> <operator> <b>")
         sys.exit(1)
 
-    opr = sys.argv[2]
-    if opr != '+' and opr != '-' and opr != '*' and opr != '/':
-        print("Unknown operator. Available operators: +, -, * and / ")
-        sys.exit(1)
+     opr = sys.argv[2]
+     if opr != '+' and opr != '-' and opr != '*' and opr != '/':
+         print("Unknown operator. Available operators: +, -, * and /")
+         sys.exit(1)
 
     from calculator_1 import add, sub, mul, div
-    a = sys.argv[1]
-    b = sys.argv[3]
+    a = int(sys.argv[1])
+    b = int(sys.argv[3])
 
     if opr == '+':
         print("{} + {} = {}".format(a, b, add(a, b)))
