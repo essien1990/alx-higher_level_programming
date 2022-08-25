@@ -7,15 +7,15 @@
 
 * Write a program that prints the number of and the list of its arguments.
   * The output should be:
-          - Number of argument(s) followed by argument (if number is one) or arguments (otherwise), followed by
-          - : (or . if no arguments were passed) followed by a new line, followed by (if at least one argument),
+       * Number of argument(s) followed by argument (if number is one) or arguments (otherwise),
+       * followed by : (or . if no arguments were passed) followed by a new line, followed by (if at least one argument),
   * one line per argument:
-          - the position of the argument (starting at 1) followed by :, followed by the argument value and a new line
+       * the position of the argument (starting at 1) followed by :, followed by the argument value and a new line
 
 * Write a program that prints the number of and the list of its arguments.
-      - The output should be the result of the addition of all arguments, followed by a new line
-      - You can cast arguments into integers by using int() (you can assume that all arguments can be casted into integers)
-      - Your code should not be executed when imported
+     * The output should be the result of the addition of all arguments, followed by a new line
+     * You can cast arguments into integers by using int() (you can assume that all arguments can be casted into integers)
+     * Your code should not be executed when imported
 
 * Write a program that prints all the names defined by the compiled module hidden_4.pyc [please download it locally](https://github.com/holbertonschool/0x02.py/raw/master/hidden_4.pyc).
 
