@@ -6,7 +6,7 @@
 ## Technologies
 * Python Scripts are written with Python 3.
 * C files are compiled using `gcc`
-* Tested on Linux f6232c63b5f0 5.3.0-1032-aws #34~18.04.2-Ubuntu
+* Tested on Linux f6232c63b5f0 5.3.0-1032-aws #34~18.04.2-Ubuntu SMP
 
 # Files
 | Filename | Description |
