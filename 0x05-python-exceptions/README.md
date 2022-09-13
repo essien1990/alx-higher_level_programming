@@ -1,5 +1,4 @@
 ## ALX SE Project - Exceptions
---
 
 ## Technologies
 
