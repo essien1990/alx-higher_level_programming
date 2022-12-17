@@ -1,2 +1,2 @@
 # ALX SE Project 
-- Network #1 - Python, Scripting. API, Ruby
+- Network #1 - Python, Scripting, API
